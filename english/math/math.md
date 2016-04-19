@@ -4,10 +4,11 @@ What order of infinity am I thinking of?
 
 -Georg Cantor
 
-Do you: 
+Do you:
+
+[Try to forget about it.](../memories/memories.md)
 
 [Call your mother.](../tell-mother/tell-mother.md)
 
 [Wiki it.](../wikipedia/wiki.md)
 
-[Try to forget about it.](../memories/memories.md)
